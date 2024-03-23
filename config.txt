@@ -17,7 +17,6 @@ allow_popup_windows=yes
 suspend_idle=5
 refresh_webpage=30
 root_password=Portkey
-session_password=Portkey
 shutdown_menu=lock reboot restart-session shutdown sleep 
 timezone=America/New_York
 wake_on_lan=yes
