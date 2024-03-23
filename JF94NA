@@ -1,0 +1,9 @@
+[[ GLOBAL ]]
+kiosk_config=http://192.168.1.15/config.txt
+connection=wired
+dhcp=yes
+browser=chrome
+homepage=https://kernel.org
+root_password=toor
+additional_components=08-ssh.xzm 09-x11vnc.xzm
+
