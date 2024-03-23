@@ -21,7 +21,7 @@ shutdown_menu=lock reboot restart-session shutdown sleep
 timezone=America/New_York
 wake_on_lan=yes
 additional_components=uefi.zip 08-ssh.xzm 
-
+wallpaper=https://krishisrani61.github.io/kioskmgmt/background.jpg
 
 
 
