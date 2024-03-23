@@ -8,7 +8,6 @@ dns_server=1.1.1.1 8.8.8.8
 network_interface=eth0
 browser=chrome
 managed_bookmarks=https://porteus-kiosk.org 
-debug=yes
 homepage=google.com
 allow_icmp_protocol=yes
 kiosk_config=krishisrani61.github.io/kioskmgmt/config.txt
