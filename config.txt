@@ -1,9 +1,23 @@
-[[ GLOBAL ]]
-kiosk_config=http://192.168.1.15/config.txt
 connection=wired
-dhcp=yes
+netmask=255.255.255.0
+ip_address=10.0.0.10
+default_gateway=10.0.0.1
+dns_server=1.1.1.1 8.8.8.8
+network_interface=eth0
 browser=chrome
-homepage=https://kernel.org
-root_password=toor
-additional_components=08-ssh.xzm 09-x11vnc.xzm
+managed_bookmarks=https://porteus-kiosk.org 
+debug=yes
+homepage=google.com
+allow_icmp_protocol=yes
+kiosk_config=krishisrani61.github.io/kioskmgmt/config.txt
+persistence=session
+allow_popup_windows=yes
+suspend_idle=5
+refresh_webpage=30
+root_password=Portkey
+session_password=Portkey
+shutdown_menu=lock reboot restart-session shutdown sleep 
+timezone=America/New_York
+wake_on_lan=yes
+additional_components=uefi.zip 08-ssh.xzm 
 
