@@ -25,5 +25,3 @@ wallpaper=https://krishisrani61.github.io/kioskmgmt/background.jpg
 
 
 
-
-
